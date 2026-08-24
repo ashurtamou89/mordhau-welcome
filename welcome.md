@@ -1,8 +1,9 @@
-# PLEASE READ #
+## PLEASE READ
+---------------------------
 ### HOW TO PLAY
 **Buy Menu Keybind (B):** Purchase skills, weapons, and vote on server settings
 
-!! Weapon purchases are located in buy menu, to the right of your current skill points & above MELEE !!
+!! Weapon purchases are located in buy menu, to the right of your current skill points !!
 
 **Buy Skill Points:** Type !buy followed by the amount. Example: !buy 100
 
