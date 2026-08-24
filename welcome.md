@@ -1,5 +1,5 @@
 ### HOW TO PLAY
-***Buy Menu Keybind (B):*** Purchase skills, weapons, and vote on server settings.
+***Buy Menu Keybind (B):*** Purchase skills, weapons, and vote on server settings
 
 ***Buy Skill Points:*** Type !buy followed by the amount. Example: !buy 100
 
@@ -14,6 +14,6 @@
 * Refunding skills may reset your skill points to zero. If this happens, simply buy more.
 * Spawning more than **150 Horde enemies** may cause lag spikes.
 ---------------------------
-THIS SERVER ALLOWS PROFANITY — YOU ACCEPT THE TERMS IF YOU PLAY — 18+
+SERVER ALLOWS PROFANITY — YOU ACCEPT THE TERMS IF YOU PLAY — 18+
 
 Admin: BURGERS
