@@ -1,11 +1,14 @@
+# PLEASE READ #
 ### HOW TO PLAY
-***Buy Menu Keybind (B):*** Purchase skills, weapons, and vote on server settings
+**Buy Menu Keybind (B):** Purchase skills, weapons, and vote on server settings
 
-***Buy Skill Points:*** Type !buy followed by the amount. Example: !buy 100
+!! Weapon purchases are located in buy menu, to the right of your current skill points & above MELEE !!
 
-***Gamble:*** Type !gamble followed by the amount. Example: !gamble 1000 *(Max: 999999)*
+**Buy Skill Points:** Type !buy followed by the amount. Example: !buy 100
 
-***Server Voting:*** Use the Buy Menu (B) to vote on damage, Horde count, 30/40/50 waves etc
+**Gamble:** Type !gamble followed by the amount. Example: !gamble 1000 *(Max: 999999)*
+
+**Server Voting:** Use the Buy Menu (B) to vote on damage, Horde count, 30/40/50 waves etc
 
 ---------------------------
 ### TIPS FOR NEW PLAYERS
